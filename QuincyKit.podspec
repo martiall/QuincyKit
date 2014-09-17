@@ -3,14 +3,11 @@ Pod::Spec.new do |s|
   s.version      = "2.1.9.1"
   s.summary      = "Live crash report management for iOS and Mac OS X. AppStore ready on iOS only! Follow news on Twitter via @hockeyapp"
 
-  s.description  = <<-DESC
-                   DESC
-
   s.homepage     = "http://quincykit.net"
 
   s.license      = "MIT & Apache License, Version 2.0"
 
-  s.authors            = { "Andreas Linde => "mail@andreaslinde.de" }
+  s.authors      = { "Andreas Linde => "mail@andreaslinde.de" }
 
   s.ios.deployment_target = "6.0"
   s.osx.deployment_target = "10.7"

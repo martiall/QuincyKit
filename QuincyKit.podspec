@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT & Apache License, Version 2.0"
 
-  s.authors      = { "Andreas Linde => "mail@andreaslinde.de" }
+  s.authors      = { "Andreas Linde" => "mail@andreaslinde.de" }
 
   s.ios.deployment_target = "6.0"
   s.osx.deployment_target = "10.7"
